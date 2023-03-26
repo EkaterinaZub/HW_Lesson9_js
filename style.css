@@ -1,0 +1,72 @@
+.container{
+    border: 1px solid red;
+    width: 450px;
+    background-color: rgb(182, 206, 206);
+    
+}
+
+.container_header{
+    text-align: center;
+}
+
+.container_form{
+text-align: center;
+
+}
+
+
+.message{
+   border:  1px solid rgb(109, 94, 94);
+   background-color: rgb(235, 227, 217);
+   border-radius: 4px;
+   height: 25px;
+}
+
+.container_event{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.container_checkbox{
+    width: 430px;
+    display: flex;
+    margin: 5px 10px 5px 10px;
+    border: 1px solid rgb(202, 197, 197);
+    background-color: rgb(234, 219, 201);
+   
+ 
+}
+
+.checkbox{
+    width: 20px;
+    height: 20px;
+    
+    align-self: center;
+    /* background-color: aquamarine; */
+   
+}
+
+.event{
+   
+    font-size: 20px;
+    color: rgb(86, 72, 72);
+   
+    margin-left: 10px;
+    
+    
+}
+
+.container_button{
+    text-align: center;
+    margin: 10px 5px 10px 10px;
+}
+
+.button{
+    border: 2px solid rgb(184, 175, 175);
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+    background-color: rgb(196, 90, 90);
+}
